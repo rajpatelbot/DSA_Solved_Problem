@@ -1,4 +1,4 @@
-package Medium_Problems.Arrays.MinRepeats;
+package Medium_Problems.Strings.MinRepeats;
 
 public class MinRepeats {
     // public static void main(String[] args) {
