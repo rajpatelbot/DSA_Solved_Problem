@@ -1,4 +1,4 @@
-![GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/0)
+[GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/0)
 
 # Logic
 1. Suppose we have 3 disk to move from `1st rod` to `3rd rod`, so `N = 3`.
