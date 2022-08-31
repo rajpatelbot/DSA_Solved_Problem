@@ -9,4 +9,4 @@
 5. Then `return (long) Math.pow(2, N) - 1`. This is for count total number of step to move all the 3 disk.
 
 # Steps, Recursion tree and Time Complexity and Recurrence relation
-[DocScanner 21 Aug 2022 13-56.pdf](https://github.com/rajpatel17-bot/DSA_Solved_Problem/files/9459908/DocScanner.21.Aug.2022.13-56.pdf)
+![IMG_20220821_140132](https://user-images.githubusercontent.com/83405614/187633881-a7eb8517-07da-4ff0-991f-7b4e08e8394e.jpg)
