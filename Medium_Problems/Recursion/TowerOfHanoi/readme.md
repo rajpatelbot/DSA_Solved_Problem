@@ -8,4 +8,5 @@
 4. Now again we run `tohanoi()` where `N = N-1` because we have to move our `smallest` and `2nd smallest` disk from `2nd rod` to `3rd rod`, so that we pass a function parameter like `tohanoi(N - 1, aux, destinatiom, start)`. Here we use our `aux space` as a `start space` and our `destination space` as an `destination space`.
 5. Then `return (long) Math.pow(2, N) - 1`. This is for count total number of step to move all the 3 disk.
 
-# Steps, Recursion tree and Time Complexity and Recurrence relation 
+# Steps, Recursion tree and Time Complexity and Recurrence relation
+[DocScanner 21 Aug 2022 13-56.pdf](https://github.com/rajpatel17-bot/DSA_Solved_Problem/files/9459908/DocScanner.21.Aug.2022.13-56.pdf)
